@@ -12,6 +12,8 @@ My goal is to become a professional network engineer. I'm currently still learni
 
 I'm currently work at [@bebasid](https://bebasid.com) as a staff who manage its DNS Server that you can [learn here](https://dns.bebasid.com).
 
+**I'm not currently ready to hire because I need to learn more about networking dynamic routing protocol I mentioned above. If you want to contact me, feel free to drop me an email at [ slashy(at)bebasid.com ]**
+
 <hr>
 
 
