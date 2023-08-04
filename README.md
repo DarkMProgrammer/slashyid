@@ -8,7 +8,13 @@ I'm 17 years old from Indonesia. I'm a hobbyist who love networking since I was 
 - A little bit of dynamic routing (BGP, OSPF, RIP, etc)
 - A little bit of Python 🐍
 
-I'm currently work at [@bebasid](https://bebasid.com) as a staff who manage its DNS Server that you can [learn here](https://dns.bebasid.com)
+My goal is to become a professional network engineer. I'm currently still learning about dynamic routing and MPLS
+
+I'm currently work at [@bebasid](https://bebasid.com) as a staff who manage its DNS Server that you can [learn here](https://dns.bebasid.com).
+
+<hr>
+
+
 
 
 <!--
