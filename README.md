@@ -1,8 +1,8 @@
 ### Hi there. I'm Slashy 👋
 
-I'm 18 years old from Indonesia. I'm a hobbyist who love networking since I was in my Vocational High School
+I'm 18 years old and I'm from Indonesia. I'm a hobbyist who loves networking since I was in my Vocational High School
 
-**I can do..**
+**I can do and know...**
 - MikroTik
 - Linux Server (Mainly Debian-based one)
 - A little bit of dynamic routing (BGP, OSPF, RIP, etc)
