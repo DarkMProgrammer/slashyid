@@ -1,4 +1,4 @@
-### Hi there. I'm Slashy 👋
+### Hi there. I'm Aldi 👋
 
 I'm 18 years old and I'm from Indonesia. I'm a hobbyist who loves networking since I was in my Vocational High School
 
